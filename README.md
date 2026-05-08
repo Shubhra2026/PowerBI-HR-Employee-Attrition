@@ -114,9 +114,4 @@ The Power BI dashboard includes interactive charts, KPIs, slicers, and visual re
 
 This project demonstrates the use of Power BI for HR analytics and workforce management. The dashboard enables organizations to make informed HR decisions by identifying patterns related to employee performance, retention, and workforce distribution.
 
----
 
-## Author
-
-**Project:** HR Analysis Dashboard  
-**Domain:** Data Analytics & Business Intelligence
